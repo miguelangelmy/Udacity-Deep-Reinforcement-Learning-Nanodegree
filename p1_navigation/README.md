@@ -75,3 +75,6 @@ It is assumed in the following steps that Anaconda is installed on a Windows bas
 ### Report of the implemented solution
 
 The Jupyter notebook `Navigation.ipynb` contains the details of the implemented solution, as well as the results obtained.
+
+---
+**Note:** This markdown document and others in this repository partially include content from the repository provided for the Deep Reinforcement Learning Ucacity Nanodegree projects. The code of this solution is based on the exercises performed in the nanodegree and follows a similar structure to facilitate its understanding and review.
