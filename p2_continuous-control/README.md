@@ -37,6 +37,9 @@ The task is episodic, and in order to solve the environment,  your agent must ge
 
 2. Place the file in the DRLND GitHub repository, in the `p2_continuous-control/` folder, and unzip (or decompress) the file. 
 
-### Instructions
+### Report of the implemented solution
 
-Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent! 
+The Jupyter notebook `Continuous_Control.ipynb` contains the details of the implemented solution, as well as the results obtained.
+
+---
+**Note:** This markdown document and others in this repository partially include content from the repository provided for the Deep Reinforcement Learning Ucacity Nanodegree projects. The code of this solution is based on the exercises performed in the nanodegree and follows a similar structure to facilitate its understanding and review.
